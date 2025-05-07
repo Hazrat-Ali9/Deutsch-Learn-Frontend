@@ -1,5 +1,5 @@
 'use client'
-
+// Dashboard page
 
 import { auth } from "@/firebase/firebaseConfig";
 import { signOut, User } from "firebase/auth";
