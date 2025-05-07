@@ -9,7 +9,7 @@ interface Comment {
   text: string;
   replies: { fullName: string; text: string }[];
 }
-
+// comment page
 const Comment = () => {
   const [comments, setComments] = useState<Comment[]>([]);
   const [commentText, setCommentText] = useState("");
