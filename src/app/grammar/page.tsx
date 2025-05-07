@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-
+// Grammer page 
 const Grammar = () => {
     return (
         <div className='mt-10'>
