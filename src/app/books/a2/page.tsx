@@ -1,5 +1,5 @@
 'use client';
-
+// a2 blog page
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 
