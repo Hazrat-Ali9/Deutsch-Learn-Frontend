@@ -7,5 +7,5 @@ const Goethe = () => {
         </div>
     );
 };
-
+// Goethe page
 export default Goethe;
