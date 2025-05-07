@@ -1,5 +1,5 @@
 "use client";
-
+// all page
 import { getBooks } from "@/utils/api";
 import Link from "next/link";
 import { useEffect, useState } from "react";
