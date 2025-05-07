@@ -7,7 +7,7 @@ import { useEffect, useState } from "react";
 type Book = { _id: string; name: string; description: string; coverImage: string; pdfFile: string };
 const BookStore = () => {
     const [books, setBooks] = useState<Book[]>([]);
-
+// bookstore
   useEffect(() => {
     getBooks().then((res) => setBooks(res.data)).catch(console.error);
   }, []);
