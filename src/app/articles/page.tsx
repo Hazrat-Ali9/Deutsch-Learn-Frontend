@@ -1,5 +1,5 @@
 import React from 'react';
-
+// add Ariticles page
 const Articles = () => {
     return (
         <div>
