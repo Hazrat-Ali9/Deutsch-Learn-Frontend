@@ -1,5 +1,5 @@
 'use client'
-
+// Faq Qna 
 import { useEffect, useRef, useState } from "react";
 
 const Faq = () => {
