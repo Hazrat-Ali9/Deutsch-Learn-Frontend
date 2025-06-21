@@ -4,7 +4,7 @@ import { createUserWithEmailAndPassword, updateProfile } from "firebase/auth";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
-
+// Register page
 const Register = () => {
   const router = useRouter();
   const [form, setForm] = useState({ fullName: "", email: "", password: "" });
