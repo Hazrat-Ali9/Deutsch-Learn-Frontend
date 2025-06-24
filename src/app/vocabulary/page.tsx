@@ -1,5 +1,5 @@
 
-
+// Vocabulery
 const Vocabulary = () => {
     return (
         <div>
