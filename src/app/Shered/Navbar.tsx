@@ -6,7 +6,7 @@ import { IoMdLogIn } from "react-icons/io";
 import Link from "next/link";
 import { signOut, User } from "firebase/auth";
 import { auth } from "@/firebase/firebaseConfig";
-// Nabbar
+// Navbar
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [isBookOpen, setIsBookOpen] = useState(false);
