@@ -5,7 +5,7 @@ import card3 from "@/assets/images/Short Stories in German for Intermediate.jpg"
 import card4 from "@/assets/images/100 German Short Stories for Beginners and Intermediate.jpg";
 import card5 from "@/assets/images/German Short Stories 1000 Master 1000.jpg";
 import card6 from "@/assets/images/German Short Stories for Beginners.jpg";
-// Story page 
+// page 
 const Story = () => {
   return (
     <div>
