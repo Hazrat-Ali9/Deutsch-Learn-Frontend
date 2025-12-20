@@ -1,5 +1,5 @@
 
-// Vocabulery
+// Page tsx
 const Vocabulary = () => {
     return (
         <div>
