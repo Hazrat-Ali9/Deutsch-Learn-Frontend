@@ -1,5 +1,5 @@
 const Best = () => {
-  // Best tsx 
+  // Best Tsx 
   return (
     <div>
       <section className="bg-black">
