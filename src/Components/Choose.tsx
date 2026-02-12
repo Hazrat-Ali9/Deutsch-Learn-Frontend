@@ -1,4 +1,4 @@
-// Choose TSX
+// Choose Tsx
 
 const Choose = () => {
     return (
