@@ -6,7 +6,7 @@ const Faq = () => {
     const [openIndex, setOpenIndex] = useState<number | null>(null);
   const containerRef = useRef<HTMLDivElement>(null);
 
-  // Handle clicking outside to close
+  // handle clicking outside to close
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
       if (
