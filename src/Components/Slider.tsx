@@ -1,5 +1,5 @@
 'use client'
-// slider Tsx 
+// Slider Tsx 
 import { useEffect, useState } from "react";
 
 const slides = [
