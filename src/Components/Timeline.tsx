@@ -1,4 +1,4 @@
-// Timeline Tsx
+// timeline Tsx
 
 const Timeline = () => {
     
